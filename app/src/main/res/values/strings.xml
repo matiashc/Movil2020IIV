@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Movil2020II</string>
+    <string name="txtEmail">Digite el Correo</string>
+    <string name="txtClave">Digite la Clave</string>
+    <string name="txtBoton">INICIO</string>
+    <string name="txtOlvidoClave">Olvido la clave?,</string>
+    <string name="txtRecuperarClave">Recuperala aquí</string>
+    <string name="txtNotieneUsuario">No tienen Usuario? ,</string>
+    <string name="txtCrearUsuario">Crealo aquí</string>
+    <string name="txtBotonCrear">CREAR</string>
+    <string name="tienda">Tienda</string>
+    <string name="perfil">Perfil</string>
+    <string name="mapa">Mapa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Tienda Mis Papeles</string>
+    <string name="descripcion">Venta de articulos de papeleria para su oficina</string>
+    <string name="horario">"8:00 - 6:00 "</string>
+
+</resources>
