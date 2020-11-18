@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ContenedorActivity"></activity>
+        <activity android:name=".RegistrarTiendaActivity"></activity>
+        <activity android:name=".ContenedorActivity" />
         <activity android:name=".CrearUsuarioActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
@@ -19,5 +20,7 @@
             </intent-filter>
         </activity>
     </application>
+
+    <uses-permission android:name="android.permission.INTERNET" />
 
 </manifest>
